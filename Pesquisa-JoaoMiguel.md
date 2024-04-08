@@ -29,3 +29,5 @@ Ele permite a criação de softwares Desktop com HTML, CSS e JavaScript.
 O editor do Visual Studio fornece muitos recursos que facilitam escrever e gerenciar seu código e texto.
 
 São aceitas as linguagens:  JavaScript, Python, C++, Java, HTML, CSS e muitas outras.
+
+Tem um principal uso de extensões que são uma excelente forma de personalizar e aprimorar a sua experiência de desenvolvimento. 
